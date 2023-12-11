@@ -1,0 +1,12 @@
+{
+    "browsers": {
+        "firefox": "C:\\Program Files\\Mozilla Firefox\\firefox.exe -profile",
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "edge": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    "rules": {
+        "https://dev.azure.com/fortedigital": "edge",
+        "https://meet.google.com": "chrome",
+        "": "firefox"
+    }
+}
